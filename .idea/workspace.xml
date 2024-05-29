@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b225ec3-eeb3-40bc-bfbb-4fecc7cb2dbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/jvscrip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/config/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/config/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/controller/SmartphoneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/model/Smartphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/repository/ISmartphoneRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/service/ISmartphoneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/service/SmartphoneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/jvscrip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/jvscrip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/md4_bai12phonemanager/ajax/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +20,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,6 +53,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2h4p4Z77mDAbO9h5B7FIqmWsH3s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -73,6 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/CODEGYM/Module 4/MD4_Bai12PhoneManager",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,9 +80,9 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.89" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.89" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Gradle : com : MD4_Bai12PhoneManager-1.0-SNAPSHOT.war">
+        <artifact name="Gradle : com : MD4_Bai12PhoneManager-1.0-SNAPSHOT.war (exploded)">
           <settings>
             <option name="CONTEXT_PATH" value="" />
           </settings>
@@ -165,7 +162,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Gradle : com : MD4_Bai12PhoneManager-1.0-SNAPSHOT.war" />
+          <artifact name="Gradle : com : MD4_Bai12PhoneManager-1.0-SNAPSHOT.war (exploded)" />
         </option>
       </method>
     </configuration>
@@ -178,7 +175,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716863016602</updated>
-      <workItem from="1716863017708" duration="3125000" />
+      <workItem from="1716863017708" duration="9738000" />
+      <workItem from="1716968571233" duration="3115000" />
     </task>
     <servers />
   </component>

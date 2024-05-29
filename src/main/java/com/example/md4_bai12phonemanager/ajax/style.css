@@ -1,7 +1,7 @@
-#display-create{
-    display: none;
-    float: left;
-}
+/*#display-create{*/
+/*    display: none;*/
+/*    float: left;*/
+/*}*/
 
 
 #display-list {
@@ -46,7 +46,7 @@ h1 {
     margin: auto;
 }
 #edit-smartphone {
-    display: none;
+    /*display: none;*/
     width: 300px;
     margin: auto;
 }
